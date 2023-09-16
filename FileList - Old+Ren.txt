@@ -1,0 +1,176 @@
+# GEM Download Manager
+# File List
+#
+# 21st October 2000
+# Owen Rudge
+# gem@orudge.freeuk.com
+#
+# Syntax: Name, Size, Description, URL
+#
+# e.g. MySuperbGEMDistro<=1=>1.5mb<=2=>Fred Jones' Superb GEM Distribution<=3=>http://www...
+#
+LAST UPDATED: September 2023<=1=> <=2=> <=3=> 
+NOTE:<=1=> <=2=>Please visit the appropriate web sites for latest listings<=3=> 
+ <=1=> <=2=> <=3=> 
+Owen's GEM Workshop Downloads<=1=> <=2=> <=3=>http://www.owenrudge.net/GEM/download
+ <=1=> <=2=> <=3=>
+FreeGEM Output<=1=>465kb<=2=>An updated version of Output<=3=>http://www.owenrudge.net/GEM/downfile.php?FN=FGOutput.zip
+FreeGEM Output Binary<=1=>39.8kb<=2=>The binary to FreeGEM Output<=3=>http://www.owenrudge.net/GEM/downfile.php?FN=Outbin.zip
+GEM Download Manager<=1=>43.5kb<=2=>The source code and binaries for the GEM Download Manager<=3=>http://www.owenrudge.net/GEM/downfile.php?FN=GEMDnld.zip
+GEM Download Manager in VB6<=1=>22.6kb<=2=>The GEM Download Manager binary in Visual Basic 6<=3=>http://www.owenrudge.net/GEM/downfile.php?FN=downbin6.zip
+ <=1=> <=2=> <=3=>
+GEM World Downloads<=1=> <=2=> <=3=>http://www.owenrudge.net/GEM/download.php
+ <=1=> <=2=> <=3=> 
+GEM/3 Full Source Code<=1=>3.4mb<=2=>The full sources to GEM 3.13<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial/download/gemfull.zip
+GEM Resource Construction Set<=1=>941kb<=2=>Application for creating dialog boxes and other resources<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial/download/gemrcs.zip
+GEM Programmers Toolkit<=1=>414kb<=2=>The Programmers Toolkit contains tools, libraries, apps and header files for GEM development.<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial/download/gemptk.zip
+GEMBUILD<=1=>5kb<=2=>Batch file to build GEM/3 desktop<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial/download/deskfix.zip
+GEM Makefile<=1=>1kb<=2=>A batch file to build GEM/3 binary distribution<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial/download/gemmake.zip
+GEM Build Tools List<=1=>55kb<=2=>List of tools needed to build GEM source, plus a shareware MAKE utility<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial/download/gemb.zip
+GEM Programmers' Workshop<=1=>41kb<=2=>C source code for the construction of standard parts of GEM apps<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial/download/bench.zip
+GEM Platform Porting Kit<=1=>867kb<=2=>Digital Research kit designed to assist porting GEM to other platforms<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial/download/gemport.zip
+XMGEM<=1=>551kb<=2=>Multi-tasking version of GEM<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial/download/xmgem.zip
+ViewMAX II Desktop Source<=1=>573kb<=2=>Desktop source for ViewMAX II, Beta 3<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial//download/viewdesk.zip
+ViewMAX II AES Source<=1=>278kb<=2=>ViewMAX II, Beta 3 AES source<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial//download/viewaes.zip
+ViewMAX II GDOS Source<=1=>94kb<=2=>ViewMAX II, Beta 3 GDOS source<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial//download/vm_gdos.zip
+Batch file to compile and link ViewMAX GDOS<=1=>unknown<=2=>A batch file to compile and link the ViewMAX GDOS source<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial//download/vmgmake.zip
+ViewMAX Icons<=1=>4kb<=2=>All the icons ViewMAX uses.<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial//download/viewicon.zip
+Loadhigh for GEM<=1=>24kb<=2=>A program that loads part/most of GEM into high memory<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial//download/lhgem12.zip
+GEM Specification Document<=1=>20kb<=2=>A rare internal DRI doc. Specification for GEM on an Atari platform.<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial//download/gemspec.zip
+GEM Developer Kit for Atari<=1=>393kb<=2=>The developers kit for GEM on the Atari<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial//download/distkit.zip
+GEM Notes<=1=>7kb<=2=>A detailed listing of packages, dates and version numbers for GEM.<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial//download/gemnotes.zip
+GEM System files (German)<=1=>613kb<=2=>System files for GEM, German version<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial//download/gemsysge.zip
+GEM Driver files (German)<=1=>688kb<=2=>Drivers for GEM, German version<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial//download/gemdrvge.zip
+GEM Draw (German)<=1=>174kb<=2=>A graphics drawing program for GEM, German version<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.org/cpm/archive/unofficial//download/gemdrwge.zip
+More GEM Draw files (German)<=1=>83kb<=2=>Sample files, borders and clipart for German version of Draw<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gemdr2ge.zip
+GEM Word Plus (German)<=1=>297kb<=2=>Text editor for GEM, German version<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gemwplge.zip
+Turbo Pascal Libraries<=1=>106kb<=2=>Some Turbo Pascal libraries for GEM, in German. Requires T.P. 4.0 or higher [shareware]<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gembind.zip
+English translation of above<=1=>3kb<=2=>English translation of documentation of Turbo Pascal libraries<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gembinde.zip
+GEM Desktop 1.1<=1=>178kb<=2=>GEM Desktop 1.1<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/dsktop11.zip
+GEM Update<=1=>149kb<=2=>Update for old versions of GEM ?.?.<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/update.zip
+GEM Desktop 1.2<=1=>84kb<=2=>GEM Desktop 1.2<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/dsktop12.zip
+GEM 1.2<=1=>613kb<=2=>A copy of the retail version of GEM 1.2<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gem12.zip
+GEM for Tandy<=1=>397kb<=2=>GEM for Tandy 1000, 1200 and 2000 computers. Version 1.2<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/desk120.zip
+GEM Desktop 1.3<=1=>611kb<=2=>GEM Desktop 1.3<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/dsktop13.zip
+GEM Desktop 1.4<=1=>471kb<=2=>GEM Desktop 1.4<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/dsktop14.zip
+GEM Desktop 1.5<=1=>471kb<=2=>GEM Desktop 1.5<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/dsktop15.zip
+GEM Desktop 1.6<=1=>471kb<=2=>GEM Desktop 1.6<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/dsktop16.zip
+GEM 2.0 System Files<=1=>447kb<=2=>GEM system files including Desktop<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gem2sys.zip
+GEM Desktop 2.1<=1=>698kb<=2=>GEM Desktop 2.1<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/dsktop21.zip
+GEM Desktop 2.2U for the PC<=1=>1.2mb<=2=>GEM 2.2u with First Word and GEM Paint<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gem22u.zip
+GEM Desktop 3.0<=1=>1.2mb<=2=>GEM Desktop 3.0<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/dsktop30.zip
+GEM Desktop 3.0<=1=>904kb<=2=>GEM Desktop 3.0. Supports Herc, EGA [don't know difference between this and above]<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/desk310.zip
+Another copy of GEM 3.x<=1=>932kb<=2=>Another copy of GEM 3.x. Not sure if there is anything new in this release<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gem3.zip
+GEM 3.01d<=1=>1.6mb<=2=>A copy of GEM 3.01d with First Word and GEM Paint<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gem301d.zip
+GEM Printer Drivers<=1=>138kb<=2=>Printer drivers for GEM. Version compatibility unknown.<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/printers.zip
+GEM 3.0/ViewMAX 1.0<=1=>234kb<=2=>A copy of ViewMAX 1.0. Should work on DRDOS 5 or higher and MS-DOS 3.2 or higher<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/viewmax1.zip
+ViewMAX from DR-DOS 6.0<=1=>226kb<=2=>Version unknown. Requires DR-DOS for task switcher TaskMAX to work<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/vmax.zip
+Artline 1.1<=1=>315kb<=2=>Artline 1.1 for GEM 3 or higher<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/artline1.zip
+Artline 2 and GEM/4<=1=>3mb<=2=>A copy of Artline 2 and GEM/4. Quite a major piece of software.<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/artline.zip
+First Word Plus 2.0<=1=>231kb<=2=>Came with GEM 3.01, has been tried with 3.11 but won't print properly<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/1wp20.zip
+Dr Doodle<=1=>12kb<=2=>Doodling program that shipped with AMSTRAD 1512/1640<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/drdoodle.zip
+Dr Doodle 2.0<=1=>12kb<=2=>Second version of Doodle<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/doodle2.zip
+GEM Draw<=1=>178kb<=2=>Drawing program for GEM<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/draw.zip
+GEM Draw 2.0<=1=>175kb<=2=>GEM Draw 2.0<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gemdraw.zip
+GEM Draw 1.0<=1=>177kb<=2=>Vector based drawing program with sample libraries<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gemdraw1.zip
+GEM Graph<=1=>137kb<=2=>GEM Graph, version unknown<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gemgraph.zip
+GEM Graph 2.0<=1=>182kb<=2=>GEM Graph 2.0<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gemgr.zip
+Draw Libraries<=1=>170kb<=2=>GEM Draw Libraries<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/drawlib.zip
+GEM Draw Business Library<=1=>99kb<=2=>Has a short instruction book in the form of a number of GEM files and an Output LIS<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/drawlib1.zip
+GEM Graph 1.0<=1=>185kb<=2=>GEM Graph 1.0<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/graph10.zip
+Draw Plus<=1=>170kb<=2=>GEM Draw Plus<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/drawplus.zip
+GEM Paint 1.0<=1=>57kb<=2=>GEM Paint version 1.0<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gempnt1.zip
+GEM Paint 1.0<=1=>117kb<=2=>Another copy of GEM Paint 1.0 (possibly with sample images?)<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/paint10.zip
+GEM Paint 2.0 for GEM/3<=1=>147kb<=2=>GEM Paint 2.0 for GEM/3<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gempnt20.zip
+GEM Paint 2.0<=1=>50kb<=2=>GEM Paint 2.0 (possibly without sample images)<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gempnt2.zip
+GEM Programmers Toolkit<=1=>265kb<=2=>GEM Programmers Toolkit 3.0. There is a manual below<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gemptk30.zip
+GEM Publisher 1.5<=1=>319kb<=2=>GEM Publisher 1.5 for GEM/3<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gempub15.zip
+GEM Publisher 2.0<=1=>326kb<=2=>GEM Publisher 2.0<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gempub.zip
+GEM Word Chart 2.8<=1=>94kb<=2=>GEM Word Chart 2.8<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gemwc.zip
+GEM Word Chart, version unknown<=1=>235kb<=2=>GEM Word Chart<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/wordchrt.zip
+GEM Write 1.0<=1=>92kb<=2=>GEM Write 1.0<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/write10.zip
+GEM Dev. Kit for Atari ST: Disk Images<=1=>406kb<=2=>GEM Developer Kit for the ATARI ST disk images<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/alcyon.zip
+GEM Dev. Kit for Atari ST: Files<=1=>405kb<=2=>GEM Developer Kit for the ATARI ST files<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/alcyon2.zip
+GEMVDI Manual<=1=>76kb<=2=>Volume 1 of the GEM Programmers Manual, in plain ASCII. Covers the VDI<=3=>
+Cirrus Logic Drivers for GEM<=1=>52kb<=2=>800x600 and 1024x768 drivers for Cirrus Logic<=3=>https://www.owenrudge.net/GEM/archive/www.retroarchive.orgcpm/archive/unofficial/download/gem_scr.zip
+#
+ <=1=> <=2=> <=3=> 
+Deltasoft Downloads<=1=> <=2=> <=3=>http://www.deltasoft.com/downloads.htm
+ <=1=> <=2=> <=3=> 
+GEM/3 Binary Distribution<=1=>unknown<=2=>The GEM/3 Binary Distribution<=3=>http://www.deltasoft.com/downloads/gem3bin.zip
+AES (GEM.EXE) Source<=1=>unknown<=2=>Source for the GEM/3 AES<=3=>http://www.deltasoft.com/downloads/aes.zip
+Build Tools - set 1<=1=>unknown<=2=>Tools used to build GEM<=3=>http://www.deltasoft.com/downloads/tools.zip
+Build Tools - set 2<=1=>unknown<=2=>Tools used to build GEM. More complete than Set 1<=3=>http://www.deltasoft.com/downloads/gemtools.zip
+Desktop source<=1=>unknown<=2=>Source for the GEM/3 Desktop<=3=>http://www.deltasoft.com/downloads/desktop.zip
+GDOS (GEMVDI.EXE)<=1=>unknown<=2=>Source for the GEM/3 GDOS/VDI<=3=>http://www.deltasoft.com/downloads/gdos.zip
+Output source<=1=>unknown<=2=>Source for the GEM/3 Output application<=3=>http://www.deltasoft.com/downloads/output.zip
+Printer drivers<=1=>unknown<=2=>Printer drivers for GEM/3 (possibly/probably source)<=3=>http://www.deltasoft.com/downloads/printdrv.zip
+Resource Editor source<=1=>unknown<=2=>Source for the GEM resource editor<=3=>http://www.deltasoft.com/downloads/rcs.zip
+System Builder Kit<=1=>unknown<=2=>The System Builder Kit, including GEMSETUP<=3=>http://www.deltasoft.com/downloads/sbksetup.zip
+Screen drivers<=1=>unknown<=2=>Screen drivers for GEM/3 (possibly/probably source)<=3=>http://www.deltasoft.com/downloads/screendr.zip
+John Elliott's Pacific C AES<=1=>unknown<=2=>John Elliott's Pacific C AES<=3=>http://seasip.info/Gem/Software/aes30.zip
+John Elliott's Pacific C AES Source<=1=>unknown<=2=>Source for John Elliott's Pacific C AES<=3=>http://seasip.info/Gem/Software/aes30s.zip
+John Elliott's 3D-aware RCS.APP<=1=>unknown<=2=>A 3D-aware version of the GEM resource editor<=3=>http://www.deltasoft.com/downloads/rcs3d.zip
+Ken Mauro's Desktop<=1=>unknown<=2=>Ken Mauro's Desktop<=3=>http://www.deltasoft.com/downloads/desk303.zip
+Ben A L Jemmett's Desktop<=1=>unknown<=2=>Ben A L Jemmett's Desktop, build 20000311<=3=>http://www.deltasoft.com/downloads/desk1223.zip
+Ben A L Jemmett's Desktop Source<=1=>unknown<=2=>Source code for Ben A L Jemmett's Desktop, build 20000311<=3=>http://www.deltasoft.com/downloads/dsks0311.zip
+ViewMAX 3 AES (VIEWMAX.OVL) Source<=1=>unknown<=2=>Source code for the ViewMAX 3 AES<=3=>http://www.deltasoft.com/downloads/viewaes.zip
+ViewMAX 3 Desktop (VIEWMAX.APP) Source<=1=>unknown<=2=>Source code for the ViewMAX 3 Desktop<=3=>http://www.deltasoft.com/downloads/viewdesk.zip
+ViewMAX 3 GDOS (VIEWMAX.EXE) Source<=1=>unknown<=2=>Source code for the ViewMAX 3 GDOS/VDI<=3=>http://www.deltasoft.com/downloads/vm_gdos.zip
+ViewMAX 3 GDOS Make Batch file<=1=>unknown<=2=>Batch file to make ViewMAX 3 GDOS<=3=>http://www.deltasoft.com/downloads/vmgmake.zip
+FreeGEM/XM<=1=>775kb<=2=>A beta version of FreeGEM/XM<=3=>http://www.deltasoft.com/downloads/gemxm.zip
+#
+ <=1=> <=2=> <=3=> 
+John Elliott's GEM Pages Downloads<=1=> <=2=> <=3=>http://seasip.info/Gem/gengem.html
+ <=1=> <=2=> <=3=> 
+GROWBOX.ACC<=1=>6kb<=2=>Adds window animation (as in Atari GEM) to PC GEM<=3=>http://seasip.info/Gem/Software/growbox.zip
+VMCOLOUR.APP<=1=>16kb<=2=>Allows you to edit the colour schemes in ViewMAX/2<=3=>http://seasip.info/Gem/Software/vmcolour.zip
+UITEST.APP<=1=>50kb<=2=>UITEST.APP is what you might call a 'rigged demo'. Demonstrates the background bitmap and colour icon functions in current FreeGEM AES, and popup menu library.<=3=>http://seasip.info/Gem/Software/uitest.zip
+EDICON 2.00<=1=>unknown<=2=>EDIcon 2.00 is a GEM icon editor, which can edit the GEM desktop icons and import or export Windows ICO files.<=3=>http://seasip.info/Gem/Software/edicon2.zip
+EDICON 2.00 Source<=1=>unknown<=2=>EDICON 2.00 Source<=3=>http://seasip.info/Gem/Software/edicon2s.zip
+Pacific C AES<=1=>67kb<=2=>John Elliott's Pacific C AES<=3=>http://seasip.info/Gem/Software/aes30.zip
+Pacific C AES Source<=1=>237kb<=2=>Source for John Elliott's Pacific C AES<=3=>http://seasip.info/Gem/Software/aes30s.zip
+3D version of RCS.APP<=1=>85kb<=2=>A 3D-aware version of the GEM resource editor<=3=>http://www.deltasoft.com/downloads/rcs3d.zip
+GEM Font Tools<=1=>14kb<=2=>Simple tools to manipulate GEM fonts embedded in drivers. For UNIX or DOS+DJGPP<=3=>http://seasip.info/Gem/Software/gemftool.zip
+Development tools for GEM<=1=>Web Page<=2=>More development tools for GEM<=3=>http://seasip.info/Gem/devkit.html
+ <=1=> <=2=> <=3=> 
+The Mouse Nest<=1=> <=2=>Site offline, included for archival's sake<=3=>http://www.cableone.net/eathan/
+ <=1=> <=2=> <=3=> 
+FreeGEM/XM Beta 3<=1=>unknown<=2=>Source and binaries for Beta 3 of FreeGEM/XM<=3=>http://www.cableone.net/eathan/xmgem.zip
+FreeGEM GDOS/VDI<=1=>unknown<=2=>The compiled binary of the FreeGEM GDOS/VDI<=3=>http://www.cableone.net/eathan/gdos30.zip
+FreeGEM GDOS/VDI Source<=1=>unknown<=2=>The source code for the FreeGEM GDOS/VDI<=3=>http://www.cableone.net/eathan/gdos30s.zip
+FreeGEM Desktop<=1=>unknown<=2=>The compiled binary of the FreeGEM Desktop [NOTE: See Deltasoft for updated versions]<=3=>http://www.deltasoft.com/downloads/desk0831.zip
+FreeGEM Desktop Source<=1=>unknown<=2=>The source code for the FreeGEM Desktop [NOTE: See Deltasoft for updated versions]<=3=>http://www.deltasoft.com/downloads/dsks0831.zip
+FreeGEM AES<=1=>unknown<=2=>unknown<=2=>The binary version of the FreeGEM AES<=3=>http://seasip.info/Gem/Software/aes30.zip
+FreeGEM AES Source<=1=>unknown<=2=>The source code for the FreeGEM AES<=3=>http://seasip.info/Gem/Software/aes30s.zip
+FreeGEM Icons<=1=>unknown<=2=>An alternative set of icons for FreeGEM<=3=>http://www.cableone.net/eathan/icons.zip
+ViewMAX<=1=>100kb<=2=>A DR-DOS adapted version of ViewMAX<=3=>http://www.cableone.net/eathan/ViewMAX.zip
+FreeGEM 3.00b<=1=>900kb<=2=>A complete FreeGEM distribution<=3=>http://www.cableone.net/eathan/FreeGEM.zip
+FreeGEM Application Suite 1<=1=>600kb<=2=>Graph, Paint, Draw, Map Editor and Word Chart for GEM, with clipart and more<=3=>http://www.cableone.net/eathan/GEMApps.zip
+#
+ <=1=> <=2=> <=3=>
+Heinz Rath's GEM Pages<=1=> <=2=> <=3=>http://www.owenrudge.net/GEM/archive/www.geocities.com/heinz_rath/
+ <=1=> <=2=> <=3=>
+ViewMAX/3 Beta Desktop Source<=1=>406kb<=2=>The source of the Desktop from ViewMAX/3 patched to work.<=3=>http://www.owenrudge.net/GEM/archive/www.geocities.com/heinz_rath/source.zip
+ViewMAX/3 Beta Desktop Binaries<=1=>83.3kb<=2=>The compiled binary of the above. [NOTE: I have found this to be corrupt].<=3=>http://www.owenrudge.net/GEM/archive/www.geocities.com/heinz_rath/binaries.zip
+ViewMAX/3 Desktop Resources<=1=>unknown<=2=>Patched resources which use TASKMGR.INI instead of TASKMAX.INI<=3=>http://www.owenrudge.net/GEM/archive/www.geocities.com/heinz_rath/rsc.zip
+VESA 800x600x16 Screen Driver Source<=1=>unknown<=2=>The source code for an 800x600 16 colour screen driver that should work with VESA compatible cards<=3=>http://www.owenrudge.net/GEM/archive/www.geocities.com/heinz_rath/svgasrc.zip
+VESA 800x600x16 Screen Driver Binary<=1=>24kb<=2=>The compiled binary of the above<=3=>http://www.owenrudge.net/GEM/archive/www.geocities.com/heinz_rath/svga.zip
+VESA 800x600x16 Screen Driver with Bezier Curves<=1=>unknown<=2=>Both source and binary for a VESA 800x600x16 video driver with bezier curves support<=3=>http://www.owenrudge.net/GEM/archive/www.geocities.com/heinz_rath/svga2.zip
+GEMWeb Pre-Alpha v0.2<=1=>238kb<=2=>A very simple Internet browser for GEM<=3=>http://www.owenrudge.net/GEM/archive/www.geocities.com/heinz_rath/gemweb.zip
+FreeGEM DOS<=1=>93.2kb<=2=>FreeGEM DOS based on FreeDOS kernel (2018) with boot logo<=3=>http://www.owenrudge.net/GEM/archive/www.geocities.com/heinz_rath/fgdos.zip
+Tic-Tac-Toe Game<=1=>7.17kb<=2=>A simple tic-tac-toe game in Pascal for GEM, both source and binary<=3=>http://www.owenrudge.net/GEM/archive/www.geocities.com/heinz_rath/tictac.zip
+Sound Driver v0.1<=1=>16.6kb<=2=>A sound driver for Sound Blaster cards, with a wave player. Source and binary.<=3=>http://www.owenrudge.net/GEM/archive/www.geocities.com/heinz_rath/sound.zip
+Screen Driver Documentation (HTML)<=1=>unknown<=2=>An HTML file detailing screen drivers.<=3=>http://www.owenrudge.net/GEM/archive/www.geocities.com/heinz_rath/scr.html
+Simple Text-mode Window under GEM<=1=>3.70kb<=2=>A simple text-mode window under GEM<=3=>http://www.owenrudge.net/GEM/archive/www.geocities.com/heinz_rath/tw.zip
+Icon editor for GEMWeb<=1=>15.4kb<=2=>Source and binaries for an Icon Editor for GEMWeb<=3=>http://www.owenrudge.net/GEM/archive/www.geocities.com/heinz_rath/ic.zip
+Example to read patch area of screen drivers<=1=>unknown<=2=>A Turbo Pascal example to read out patch area of screen drivers<=3=>http://www.owenrudge.net/GEM/archive/www.geocities.com/heinz_rath/info.zip
+#
+ <=1=> <=2=> <=3=>
+Chris Barnes GEM Pages<=1=> <=2=> <=3=>https://www.owenrudge.net/GEM/archive/www.users.zetnet.co.uk/barnes_firsnorton/dr_gem.htm
+ <=1=> <=2=> <=3=>
+Some GEM Docs<=1=>217kb<=2=>Some GEM documents which have been tidied up<=3=>http://www.owenrudge.net/GEM/archive/www.users.zetnet.co.uk/barnes_firsnorton/gem_docs.zip
+Docs about RSC Editor<=1=>43kb<=2=>Some documentation about the RSC editor<=3=>http://www.owenrudge.net/GEM/archive/www.users.zetnet.co.uk/barnes_firsnorton/Rcs_doc.zip
+Notes about GSX<=1=>39kb<=2=>Notes about GSX which have info relevant to screen drivers<=3=>http://www.owenrudge.net/GEM/archive/www.users.zetnet.co.uk/barnes_firsnorton/gsx_txt.zip
+Presentation Team<=1=>2.13mb<=2=>DRI's Presentation Team 3.1<=3=>http://www.owenrudge.net/GEM/archive/www.users.zetnet.co.uk/barnes_firsnorton/prestm31.zip
+GEM Code<=1=>26kb<=2=>Some code to use in GEM programs<=3=>http://www.owenrudge.net/GEM/archive/www.users.zetnet.co.uk/barnes_firsnorton/gem_code.zip                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
